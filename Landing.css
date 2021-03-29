@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;500&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    background-color: #00001a;
+   
+}
+.logo{
+    width: 50%;
+    padding: 20px;  
+}
+.globelogo{
+    display: flex;
+    padding-top: 30px;
+    color: white;
+    width: 30px;
+    height: 30px;
+    margin-left: 30%;
+}
+.lang{
+    display: flex;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 5px;
+    color: white;
+    font-family: 'Lexend', sans-serif;
+}
+.sign{
+    display: flex;
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: 'Lexend', sans-serif;
+}
+.body{
+    width: 40%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Lexend', sans-serif;
+    padding-left: 70px;
+    padding-top: 90px;
+}
+.content{
+    font-family: 'Lexend', sans-serif;
+    padding: 70px;
+
+}
+.btn{
+    background-color:  #1aa3ff;
+    margin-left: 70px;
+    height: 70px;
+    width: 280px;
+    font-size: 17px;
+    font-family: 'Lexend', sans-serif;
+    color: white;
+}
+.images{
+    width: 50%;
+    display: flex;
+    float: right;
+}
+.mirza{
+    width: 50%;
+    margin-left: 424px;
+    margin-top: -625px;
+}
+.drish{
+    margin-left: -337px;
+    margin-top: -460px;
+}
+.master{
+    margin-left: -250px;
+    margin-top: -275px;
+}
+.america{
+    margin-left: -568px;
+    margin-top: -625px;
+}
+.border{
+    margin-left: -318px;
+    margin-top: -400px;
+}
+.coolie{
+    margin-left: -320px;
+    margin-top: -250px;
+}
+.potru{
+    margin-left: -559px;
+    margin-top: -625px;
+}
+.spy{
+    margin-left: -245px;
+    margin-top: -400px;
+}
+.wild{
+    margin-left: -243px;
+    margin-top: -250px;
+}
